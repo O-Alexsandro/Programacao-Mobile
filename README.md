@@ -38,11 +38,14 @@ Antes de começar, você precisa ter instalado em sua máquina:
 ## 🔐 Credenciais de Acesso
 
 Como o backend de autenticação é simulado (Mock), utilize as seguintes credenciais para testar o login:
+
 Usuário: admin
+
 Senha: 123
 
 ## 📡 API Utilizada
 O projeto consome dados públicos da DummyJSON.
 
 Categorias: /products/category/{categoria}
+
 Detalhes: /products/{id}
